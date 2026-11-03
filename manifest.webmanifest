@@ -2,6 +2,7 @@
   "name": "속담 잇기",
   "short_name": "속담 잇기",
   "lang": "ko",
+  "id": "/proverb-quiz/app2",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
